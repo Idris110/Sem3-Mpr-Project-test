@@ -1,0 +1,14 @@
+.imgcontainer{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 0;
+    background-color: rgb(194 197 218);
+}
+
+.navcolor{
+    background-color: #0a58ca;
+}
+
+.imgtext{
+    width: 500px;
+}
